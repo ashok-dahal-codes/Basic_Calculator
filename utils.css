@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  .container{
+    
+    margin-left: 
+    250px;
+    margin-right: 250px;
+    
+  }
+  h1{
+  
+ 
+    height: 100px;
+    margin-bottom: 0;
+    margin-left: 
+    250px;
+    margin-right: 250px
+ 
+ 
+  }

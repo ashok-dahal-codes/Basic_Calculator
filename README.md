@@ -1,1 +1,1 @@
-# Basic_Calculator
+a basic calculator using html css and javascript a simple yet concept clearing project to learn beginner level html css and javascript.
